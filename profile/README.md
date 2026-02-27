@@ -10,9 +10,6 @@
   <a href="https://github.com/geostorm-ai/geostorm">
     <img src="https://img.shields.io/badge/python-3.11+-blue?style=flat&logo=python&logoColor=white" />
   </a>
-  <a href="https://github.com/geostorm-ai/geostorm/actions/workflows/checks.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/geostorm-ai/geostorm/checks.yml?branch=main&style=flat&label=CI" />
-  </a>
   <a href="https://github.com/geostorm-ai/geostorm/pkgs/container/geostorm">
     <img src="https://img.shields.io/badge/docker-ghcr.io-2496ED?style=flat&logo=docker&logoColor=white" />
   </a>
