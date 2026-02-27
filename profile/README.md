@@ -1,5 +1,7 @@
 <div align="center">
 
+[![GeoStorm](https://img.shields.io/badge/geostorm--ai%2Fgeostorm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geostorm-ai/geostorm)
+
 # GeoStorm
 
 ### AI Perception Monitoring for Software
